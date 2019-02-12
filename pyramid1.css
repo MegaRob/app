@@ -1,0 +1,333 @@
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 1px;
+  }
+  
+  /*tr:nth-child(even) {background-color: #f2f2f2;}
+  
+  /*!!!!!!!!!!!!!!!!!!!-----COLUMNS----!!!!!!!! /*
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+
+  .columnExcerTop {
+
+    float: left;
+    width: 6%;
+    padding: 1px;
+    height: 50px; 
+    border-top-left-radius: 8px;
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+.columnGripTop {
+
+    float: left;
+    width: 13%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+
+  .columnSetTop {
+
+    float: left;
+    width: 4%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+
+  .columnRepTop{
+
+    float: left;
+    width: 4%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+
+  .columnResistanceTop{
+
+    float: left;
+    width: 6%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+.columnTTTop{
+
+    float: left;
+    width: 5%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+.columnTutTop{
+
+    float: left;
+    width: 4.9%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(175, 175, 175);
+    border: solid;
+    border-top-right-radius: 8px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+.columnExcer{
+
+    float: left;
+    width: 6%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(216, 216, 216);
+    
+}
+
+.columnExcerBottomLeft{
+
+  float: left;
+  width: 6%;
+  padding: 1px;
+  height: 50px;
+  background: rgb(216, 216, 216);
+  border-bottom-left-radius: 8px;
+}
+.columnResistance{
+
+    float: left;
+    width: 6%;
+    padding: 1px;
+    height: 50px;
+    background: rgb(216, 216, 216);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+  .columnSet {
+
+    float: left;
+    width: 4%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(216, 216, 216);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+   .columnRep{
+
+    float: left;
+    width: 4%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(216, 216, 216);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+  .columnTut {
+
+    float: left;
+    width: 5%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(216, 216, 216);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+
+  .columnTT {
+
+    float: left;
+    width: 5%;
+    padding: 1px;
+    height: 50px; 
+    background: rgb(216, 216, 216);
+    border: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+
+  .column {
+    float: left;
+    width: 12.9%;
+    padding: 1px;
+    height: 50px; 
+    border: solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    background: rgb(216, 216, 216);
+  }
+
+  .columnBottomSet {
+    float: left;
+    width: 6%;
+    padding: 1px;
+    height: 50px; 
+    border: solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-bottom-left-radius: 8px;
+    background: rgb(216, 216, 216);
+  }
+
+  .columnBottomTut {
+    float: left;
+    width: 5%;
+    padding: 1px;
+    height: 50px; 
+    border: solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-bottom-right-radius: 8px;
+    background: rgb(216, 216, 216);
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the four columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  #customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color: rgb(216, 216, 216);
+    border-bottom-color: rgb(216, 216, 216);
+    border-top-color: rgb(216, 216, 216);
+    border-left-color: rgb(216, 216, 216);
+    border-right-color: rgb(216, 216, 216);
+    width: 90%;
+    height: 40px;
+    align-content: center;
+
+  }
+  
+
+
+
+ 
+  
+
+                    /* !!!!!!!!!!!!!!!!!!!!!STOPWATCH!!!!!!!!*/
+  /* CAUTION: IE hackery ahead */
+  select::-ms-expand { 
+    display: none; /* remove default arrow on ie10 and ie11 */
+}
+
+/* target Internet Explorer 9 to undo the custom arrow */
+@media screen and (min-width:0\0) {
+    select {
+        background:none\9;
+        padding: 5px\9;
+    } 
+}
+
+body {
+  font-family: "K2D", sans-serif;
+  color: #262626;
+}
+
+h1 {
+  font-size: 4em;
+  font-family: "Roboto Mono", monospace;
+  margin: 20px;
+}
+
+button {
+  border: solid;
+  border-width: 0px;
+  font-weight: 700;
+  border: 1px solid black;
+  background: #404040;
+  color: #e4e4e4;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 12px;
+  width: 70px;
+  margin: 0 2px;
+  outline: none;
+}
+
+button:hover {
+  color: white;
+  transform: scale(1.03);
+}
+
+.container {
+  margin: 1% auto;
+  text-align: center;
+  background: white;
+  border: 0px solid #606060;
+  padding: 20px;
+  width: 900px;
+}
